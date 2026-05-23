@@ -1,5 +1,5 @@
 {
-  "name": "slobos-afkbot",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "pokiloki",
     "password": "",
@@ -8,14 +8,14 @@
   "server": {
     "ip": "RL25.aternos.me",
     "port": 48971,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": -337,
-    "y": 85,
-    "z": 287
+    "x": 0,
+    "y": 100,
+    "z": 0
   },
   "utils": {
     "auto-auth": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "don't grief",
         "I like to play Minecraft!"
       ]
     },
